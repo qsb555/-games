@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Untily Games\\My Game(RPG)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\ui\\itemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\ui\\itemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|e:\\untily games\\my game(rpg)\\assets\\scenes\\front\\1000.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\front\\1000.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\jiaoben\\gametaskso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\jiaoben\\gametaskso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\ui\\messageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\ui\\messageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\jiaoben\\tasknpcobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\jiaoben\\tasknpcobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\manager\\inventorymanaget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\manager\\inventorymanaget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\ui\\dialogue ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\ui\\dialogue ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\jiaoben\\jiaohufather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\jiaoben\\jiaohufather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\ui\\playerpropertyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\ui\\playerpropertyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\jiaoben\\player\\playerproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\jiaoben\\player\\playerproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\jiaoben\\player\\playergongji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\jiaoben\\player\\playergongji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\ui\\itemdetalui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\ui\\itemdetalui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\jiaoben\\wuqi\\wuqi2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\jiaoben\\wuqi\\wuqi2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\jiaoben\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\jiaoben\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\ui\\invertoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\ui\\invertoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\so\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\so\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\jiaoben\\pickobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\jiaoben\\pickobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\jiaoben\\wuqi\\wuqibullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\jiaoben\\wuqi\\wuqibullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\jiaoben\\player\\playerpick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\jiaoben\\player\\playerpick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|E:\\Untily Games\\My Game(RPG)\\assets\\scenes\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71E68B1-0B06-D514-87B1-AEF82BC3E57B}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameTaskSO.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\GameTaskSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\jiaoben\\GameTaskSO.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\GameTaskSO.cs",
+              "RelativeToolTip": "Assets\\Scenes\\jiaoben\\GameTaskSO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:00:38.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryManaget.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\Manager\\InventoryManaget.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Manager\\InventoryManaget.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\Manager\\InventoryManaget.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Manager\\InventoryManaget.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:13:42.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dialogue UI.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\UI\\Dialogue UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\UI\\Dialogue UI.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\UI\\Dialogue UI.cs",
+              "RelativeToolTip": "Assets\\Scenes\\UI\\Dialogue UI.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwC0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:02:15.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "jiaohuFather.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\jiaohuFather.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\jiaoben\\jiaohuFather.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\jiaohuFather.cs",
+              "RelativeToolTip": "Assets\\Scenes\\jiaoben\\jiaohuFather.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:26:34.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemDetalUI.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\UI\\ItemDetalUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\UI\\ItemDetalUI.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\UI\\ItemDetalUI.cs",
+              "RelativeToolTip": "Assets\\Scenes\\UI\\ItemDetalUI.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwDgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:03:09.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "itemUI.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\UI\\itemUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\UI\\itemUI.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\UI\\itemUI.cs",
+              "RelativeToolTip": "Assets\\Scenes\\UI\\itemUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:56:58.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskNPCObject.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\TaskNPCObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\jiaoben\\TaskNPCObject.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\TaskNPCObject.cs",
+              "RelativeToolTip": "Assets\\Scenes\\jiaoben\\TaskNPCObject.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:27:20.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageUI.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\UI\\MessageUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\UI\\MessageUI.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\UI\\MessageUI.cs",
+              "RelativeToolTip": "Assets\\Scenes\\UI\\MessageUI.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA5wAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:02:46.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1000.txt",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\front\\1000.txt",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\front\\1000.txt",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\front\\1000.txt",
+              "RelativeToolTip": "Assets\\Scenes\\front\\1000.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-12T03:42:32.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerPropertyUI.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\UI\\PlayerPropertyUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\UI\\PlayerPropertyUI.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\UI\\PlayerPropertyUI.cs",
+              "RelativeToolTip": "Assets\\Scenes\\UI\\PlayerPropertyUI.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwEsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:06:02.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerProperty.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\player\\PlayerProperty.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\jiaoben\\player\\PlayerProperty.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\player\\PlayerProperty.cs",
+              "RelativeToolTip": "Assets\\Scenes\\jiaoben\\player\\PlayerProperty.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwFkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:46:33.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "itemso.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\SO\\itemso.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\SO\\itemso.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\SO\\itemso.cs",
+              "RelativeToolTip": "Assets\\Scenes\\SO\\itemso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:48:56.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Enemy\\Enemy.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAA7wGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:52:44.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "playerGongji.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\player\\playerGongji.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\jiaoben\\player\\playerGongji.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\player\\playerGongji.cs",
+              "RelativeToolTip": "Assets\\Scenes\\jiaoben\\player\\playerGongji.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:23:28.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "wuqi2.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\wuqi\\wuqi2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\jiaoben\\wuqi\\wuqi2.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\wuqi\\wuqi2.cs",
+              "RelativeToolTip": "Assets\\Scenes\\jiaoben\\wuqi\\wuqi2.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:57:58.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "pickObject.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\pickObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\jiaoben\\pickObject.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\pickObject.cs",
+              "RelativeToolTip": "Assets\\Scenes\\jiaoben\\pickObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:17:46.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "player.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\player\\player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\jiaoben\\player\\player.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\player\\player.cs",
+              "RelativeToolTip": "Assets\\Scenes\\jiaoben\\player\\player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:24:48.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InvertoryUI.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\UI\\InvertoryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\UI\\InvertoryUI.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\UI\\InvertoryUI.cs",
+              "RelativeToolTip": "Assets\\Scenes\\UI\\InvertoryUI.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAvwDgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:47:04.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "wuqibullet.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\wuqi\\wuqibullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\jiaoben\\wuqi\\wuqibullet.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\wuqi\\wuqibullet.cs",
+              "RelativeToolTip": "Assets\\Scenes\\jiaoben\\wuqi\\wuqibullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:15:30.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayerPick.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\player\\PlayerPick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\jiaoben\\player\\PlayerPick.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\jiaoben\\player\\PlayerPick.cs",
+              "RelativeToolTip": "Assets\\Scenes\\jiaoben\\player\\PlayerPick.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:38:19.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\Enemy\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Enemy\\EnemySpawner.cs",
+              "ToolTip": "E:\\Untily Games\\My Game(RPG)\\Assets\\Scenes\\Enemy\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Enemy\\EnemySpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:08:18.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
